@@ -3,7 +3,7 @@
 import { MessageCircle } from "lucide-react"
 
 export function WhatsAppButton() {
-  const phoneNumber = "8983347952" // Royal Fitness Gym phone number
+  const phoneNumber = "+918983347952" // Royal Fitness Gym phone number with country code
   const message = "Hi! I'm interested in joining Royal Fitness Gym. Can you provide more information?"
 
   const handleClick = () => {
