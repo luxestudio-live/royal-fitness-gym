@@ -13,17 +13,17 @@ const contactInfo = [
   {
     icon: MapPin,
     title: "Address",
-    content: "Shiv Nagar, Rauza, Ghazipur, Uttar Pradesh 233002",
+    content: "Maha ganga colony, 111/14/1, Main road, kalewadi, bridge, Pimpri Colony, Pimpri-Chinchwad, Maharashtra 411017",
   },
   {
     icon: Phone,
     title: "Phone",
-    content: "+919250609898",
+    content: "89833 47952",
   },
   {
     icon: Mail,
     title: "Email",
-    content: "info@bulldoggym.in",
+    content: "info@royalfitnessgym.in",
   },
   {
     icon: Clock,
@@ -125,7 +125,7 @@ export function ContactSection() {
             <div className="bg-neutral-900 border border-neutral-800 rounded-xl p-6">
               <h4 className="text-white font-bold mb-2">Free Trial Available!</h4>
               <p className="text-neutral-400 text-sm">
-                Not sure if BullDog Gym is right for you? Sign up for a free 3-day trial and experience our facilities firsthand.
+                Not sure if Royal Fitness Gym is right for you? Sign up for a free 3-day trial and experience our facilities firsthand.
               </p>
             </div>
           </div>
