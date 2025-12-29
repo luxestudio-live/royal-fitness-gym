@@ -8,21 +8,21 @@ const _geist = Geist({ subsets: ["latin"] })
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "BullDog Gym | Transform Your Body & Mind",
+  title: "Royal Fitness Gym | Transform Your Body & Mind",
   description:
-    "BullDog Gym is a premium fitness center offering 24/7 access, expert trainers, strength training, HIIT classes, CrossFit, and personalized programs to help you achieve your fitness goals.",
-  keywords: ["gym", "fitness", "workout", "personal training", "strength training", "HIIT", "CrossFit", "BullDog Gym"],
-  authors: [{ name: "BullDog Gym" }],
+    "Royal Fitness Gym is a premium fitness center offering 24/7 access, expert trainers, strength training, HIIT classes, CrossFit, and personalized programs to help you achieve your fitness goals.",
+  keywords: ["gym", "fitness", "workout", "personal training", "strength training", "HIIT", "CrossFit", "Royal Fitness Gym"],
+  authors: [{ name: "Royal Fitness Gym" }],
   openGraph: {
-    title: "BullDog Gym | Transform Your Body & Mind",
+    title: "Royal Fitness Gym | Transform Your Body & Mind",
     description: "Premium fitness center with 24/7 access, expert trainers, and world-class facilities.",
     type: "website",
     locale: "en_US",
-    siteName: "BullDog Gym",
+    siteName: "Royal Fitness Gym",
   },
   twitter: {
     card: "summary_large_image",
-    title: "BullDog Gym | Transform Your Body & Mind",
+    title: "Royal Fitness Gym | Transform Your Body & Mind",
     description: "Premium fitness center with 24/7 access, expert trainers, and world-class facilities.",
   },
   robots: {

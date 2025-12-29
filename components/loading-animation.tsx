@@ -4,7 +4,7 @@ import { useEffect, useState } from "react"
 
 export function LoadingAnimation() {
   const [progress, setProgress] = useState(0)
-  const text = "BullDog Gym"
+  const text = "Royal Fitness Gym"
 
   useEffect(() => {
     const interval = setInterval(() => {
